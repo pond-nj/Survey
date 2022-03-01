@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions number="3" randomquestion="true" branch="false">
+	<instruction></instruction>
+
+	<question number="1">
+	Q1
+	</question>
+
+	<question number="2">
+	Q2
+	</question>
+
+	<question number="3">
+	Q3
+	</question>
+
+	<question number="4">
+	Q4
+	</question>
+
+	<question number="5">
+	Q5
+	</question>
+
+	<feedbacks>
+		<weakText threshold="2"></weakText>
+		<weakFeedback>Feedback: weak. Must improve more on...</weakFeedback>
+
+		<moderateText threshold="4"></moderateText>
+		<moderateFeedback>Feedback: moderate. Must improve more on...</moderateFeedback>
+
+		<strongText></strongText>
+		<strongFeedback>Feedback: strong! Could improve more on...</strongFeedback>
+	</feedbacks>
+
+	<surveyFeedback>
+		<surveyText number="1">
+		How much do you like this survey? (1(lowest) to 5(Highest))
+		</surveyText>
+
+		<surveyText number="2">
+		How much do you love dogs? (1(lowest) to 5(Highest))
+		</surveyText>
+
+	</surveyFeedback>
+
+</questions>
